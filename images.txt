@@ -1,2 +1,1 @@
-jxxghp/moviepilot
-sonatype/nexus3
+tailscale/tailscale:latest
